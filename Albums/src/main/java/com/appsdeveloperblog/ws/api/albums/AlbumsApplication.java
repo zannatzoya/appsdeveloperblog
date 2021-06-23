@@ -10,6 +10,7 @@ public class AlbumsApplication {
 		System.out.println("");
 		System.out.println("22");
 		System.out.println("33");
+		System.out.println("44");
 		SpringApplication.run(AlbumsApplication.class, args);
 	}
 
