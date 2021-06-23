@@ -8,6 +8,8 @@ public class AlbumsApplication {
 
 	public static void main(String[] args) {
 		System.out.println("");
+		System.out.println("22");
+		System.out.println("33");
 		SpringApplication.run(AlbumsApplication.class, args);
 	}
 
