@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AlbumsApplication {
 
 	public static void main(String[] args) {
+		System.out.println("");
 		SpringApplication.run(AlbumsApplication.class, args);
 	}
 
